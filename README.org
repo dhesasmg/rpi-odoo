@@ -1,0 +1,13 @@
+* RPI docker container for odoo (based on odoo nightly)
+A Fork of odoo docker official image. Based on jsurf/raspbian:latest. 
+** Features:
+*** Fix for wkhtmltopdf broken package in raspbian.
+
+** Available Tags:
+*** 8.0
+
+** TODO:
+*** Add both 9.0 and 10.0 next.
+
+** Credits:
+*** [[https://bitbucket.org/yajo/docker-odoo][yajo/docker-odoo]]
